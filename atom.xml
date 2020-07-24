@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://chuang-hui.github.io/"/>
-  <updated>2020-07-23T08:04:46.225Z</updated>
+  <updated>2020-07-24T02:24:53.385Z</updated>
   <id>https://chuang-hui.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新的博文</title>
+    <link href="https://chuang-hui.github.io/2020/07/24/%E6%96%B0%E7%9A%84%E5%8D%9A%E6%96%87/"/>
+    <id>https://chuang-hui.github.io/2020/07/24/%E6%96%B0%E7%9A%84%E5%8D%9A%E6%96%87/</id>
+    <published>2020-07-24T02:24:16.000Z</published>
+    <updated>2020-07-24T02:24:53.385Z</updated>
+    
+    <content type="html"><![CDATA[<p>测试新的博文</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;测试新的博文&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
